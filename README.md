@@ -69,7 +69,7 @@ I have build low latency micro-services with high scale and availability. I am a
   </span>
 </p>
 
-### Specialities
+## Specialities
 <p>
 	<span>
     <img src="https://img.shields.io/badge/-Concurrency-white?&color=black&style=for-the-badge" alt="Concurrency">
@@ -82,6 +82,6 @@ I have build low latency micro-services with high scale and availability. I am a
   </span>
 </p>
 
+## Github Stats
 [![ShankarShastri github stats](https://github-readme-stats.vercel.app/api?username=shankarshastri&count_private=true&show_icons=true&theme=radical)](https://github.com/shankarshastri/shankarshastri/)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarshastri&count_private=true&show_icons=true&theme=radical)](https://github.com/shankarshastri/shankarshastri/)
