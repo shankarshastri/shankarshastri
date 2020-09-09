@@ -27,6 +27,7 @@ I have build low latency micro-services with high scale and availability. I am a
     <img src="https://img.shields.io/badge/-Go-white?logo=go&logoColor=00ADD8&color=black&style=for-the-badge" alt="Go">
     <img src="https://img.shields.io/badge/-Haskell-white?logo=haskell&logoColor=5D4F85&color=black&style=for-the-badge" alt="Haskell">
     <img src="https://img.shields.io/badge/-V-white?logo=v&logoColor=5D87BF&color=black&style=for-the-badge" alt="V">
+    <img src="https://img.shields.io/badge/-Rust-white?logo=Rust&logoColor=5D87BF&color=black&style=for-the-badge" alt="Rust">
   </span>
 </p>
 
