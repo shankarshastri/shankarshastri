@@ -81,6 +81,7 @@ I have build low latency micro-services with high scale and availability. I am a
     <img src="https://img.shields.io/badge/-Microservices-white?color=black&style=for-the-badge" alt="Microservices">
     <img src="https://img.shields.io/badge/-Graphql-white?color=black&style=for-the-badge" alt="Graphql">
     <img src="https://img.shields.io/badge/-GRPC-white?color=black&style=for-the-badge" alt="GRPC">
+    <img src="https://img.shields.io/badge/-RSockets-white?color=black&style=for-the-badge" alt="RSockets">
   </span>
 </p>
 
